@@ -1,0 +1,6 @@
+Nama NIM Jurusan
+Alice 12345 Informatika
+Bob 67890 Elektro
+Dun 98989 Sipil
+Kun 98990 Matematika
+Jek 23521 Kimia
